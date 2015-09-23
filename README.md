@@ -1,2 +1,3 @@
 # arm.js
-a leapmotion controlled js robotic arm, using johnny-five and leapjs
+MIRA: Motion Interface Robotic Arm
+A LeapMotion controlled js robotic arm, using johnny-five and leapjs
